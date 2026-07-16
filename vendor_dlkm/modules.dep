@@ -75,7 +75,6 @@
 /vendor_dlkm/lib/modules/rq_stats.ko:
 /vendor_dlkm/lib/modules/llcc-qcom.ko:
 /vendor_dlkm/lib/modules/minidump.ko: /vendor_dlkm/lib/modules/smem.ko
-/vendor_dlkm/lib/modules/mem-offline.ko:
 /vendor_dlkm/lib/modules/mem_buf.ko: /vendor_dlkm/lib/modules/qcom_dma_heaps.ko /vendor_dlkm/lib/modules/msm_dma_iommu_mapping.ko /vendor_dlkm/lib/modules/mem_buf_dev.ko /vendor_dlkm/lib/modules/secure_buffer.ko /vendor_dlkm/lib/modules/qcom-scm.ko /vendor_dlkm/lib/modules/gh_rm_drv.ko /vendor_dlkm/lib/modules/gh_dbl.ko /vendor_dlkm/lib/modules/gh_msgq.ko /vendor_dlkm/lib/modules/gh_arm_drv.ko
 /vendor_dlkm/lib/modules/mem_buf_dev.ko: /vendor_dlkm/lib/modules/secure_buffer.ko /vendor_dlkm/lib/modules/qcom-scm.ko /vendor_dlkm/lib/modules/gh_rm_drv.ko /vendor_dlkm/lib/modules/gh_dbl.ko /vendor_dlkm/lib/modules/gh_msgq.ko /vendor_dlkm/lib/modules/gh_arm_drv.ko
 /vendor_dlkm/lib/modules/memory_dump_v2.ko: /vendor_dlkm/lib/modules/minidump.ko /vendor_dlkm/lib/modules/smem.ko /vendor_dlkm/lib/modules/qcom-scm.ko
